@@ -9,6 +9,7 @@
 * Clone or download this repository
 * Go inside of directory,  `cd compose-postgres`
 * Run this command `docker-compose up -d`
+* Use docker inspect on the postgres container to find the IP address to use for the database when adding it to pgAdmin.
 
 
 ## Environments
